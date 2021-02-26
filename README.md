@@ -1,7 +1,7 @@
 # DeD
 Decentralised direct democratic voting system.
 
-## Manifesto
+## Abstract
 
 The goal of DeD is to digitalise a Swiss direct democracy like government system using blockchain technology.
 
